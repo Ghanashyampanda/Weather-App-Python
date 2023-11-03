@@ -8,6 +8,7 @@ import datetime
 import pytz
 from timezonefinder import TimezoneFinder
 
+
 class Weather(Tk):
     def __init__(self):
         super().__init__()
